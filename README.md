@@ -1,2 +1,5 @@
 # Hello-world
-你好 世界
+
+Hello!
+
+I hope to learn to program! Come on!
